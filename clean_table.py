@@ -55,6 +55,7 @@ RAW_LOOKUP = [
     ['m_', 'ma'],
     ['o_e', 'one'],
     ]
+
 MAX_LINE_LEN = 27
 
 def _generate_scatter_plot(
